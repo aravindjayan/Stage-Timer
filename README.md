@@ -6,7 +6,7 @@ The display was driven with an Arduino Pro Mini.
 
 
 The timer was programmed in Arduino and the following libraries were used.
-* [Countimer] (https://github.com/inflop/Countimer) by inflop
-* [SevenSeg] (https://github.com/sigvaldm/SevenSeg) by sigvaldm
+* [Countimer](https://github.com/inflop/Countimer) by inflop
+* [SevenSeg](https://github.com/sigvaldm/SevenSeg) by sigvaldm
 
-Illustrator design is included for a Laser-Cut case for the timer in 3mm acrylic.
+Illustrator design is included for a Laser-Cut housing in 3mm acrylic.
