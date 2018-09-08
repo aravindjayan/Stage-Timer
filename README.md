@@ -4,6 +4,7 @@ A custom stage timer made for TEDx FISAT. Uses 2.3" Seven segment displays to in
 A PCB was designed only for the seven segment displays consisting of ULN2003 as the digit driver and BD140 transistor as digit drivers.
 The display was driven with an Arduino Pro Mini.
 
+
 The timer was programmed in Arduino and the following libraries were used.
 * [Countimer] (https://github.com/inflop/Countimer) by inflop
 * [SevenSeg] (https://github.com/sigvaldm/SevenSeg) by sigvaldm
